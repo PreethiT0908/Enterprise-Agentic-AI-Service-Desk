@@ -1,0 +1,26 @@
+{
+  "VPN": [
+    "Verify internet connectivity",
+    "Update VPN credentials",
+    "Reconnect VPN profile",
+    "Restart VPN client"
+  ],
+
+  "Password": [
+    "Reset password",
+    "Unlock account",
+    "Clear cached credentials"
+  ],
+
+  "Email": [
+    "Check mailbox quota",
+    "Verify Outlook connectivity",
+    "Restart Outlook"
+  ],
+
+  "Printer": [
+    "Check printer power",
+    "Verify printer connection",
+    "Restart print spooler"
+  ]
+}
