@@ -1,20 +1,12 @@
-# Python
 venv/
+backend/venv/
+
 __pycache__/
 *.pyc
 
-# Environment variables
 .env
 
-# VS Code
+.idea/
 .vscode/
 
-# Logs
-*.log
-
-# Database
 *.db
-
-# Vector files
-*.faiss
-*.pkl
